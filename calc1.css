@@ -1,0 +1,43 @@
+.text-center {
+    text-align: center;
+  }
+  
+  .container {
+    background-color: black;
+    margin: auto;
+    height: 380px;
+    width: 250px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    border: none;
+  }
+  
+  .flex {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+  
+  }
+  
+  .flex-col {
+    flex-direction: column;
+  }
+  
+  .flex button {
+    margin: 2px;
+    border-radius: 10px;
+    border: none;
+  
+  }
+  
+  .input-box {
+    margin-bottom: 20px;
+    width: 229px;
+    height: 33px;
+    font-weight: 400;
+    font-size: larger;
+  }
+  
+  .button1 {
+    padding-left: 86px;
+  }
